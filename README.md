@@ -1,7 +1,9 @@
 # Electrostrat
 #### Arduino UNO based on-board guitar effects processor based on Electrosmash pedal.
 
-Project details can also be found here: https://create.arduino.cc/projecthub/atoorian/electrostrat-1466fa
+Project details can also be found here:
+https://create.arduino.cc/projecthub/atoorian/electrostrat-1466fa
+https://youtu.be/5GXha6HV8xU
 
 ![Image description](./controls.jpg)
 
